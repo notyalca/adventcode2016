@@ -1,0 +1,15 @@
+# Sonar
+/sonar-project.properties
+/sonar_reports
+/.sonar_lock
+
+coverage-it/
+coverage/
+node_modules/
+
+# JetBrains
+.idea
+
+# Logs
+logs
+*.log
